@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+discord.py
+python-dotenv
+flask
+=======
+<<<<<<< HEAD
+discord.py
+python-dotenv
+=======
+discord.py
+python-dotenv
+>>>>>>> 93216c4041b4ef6b010f22b11136365ae707cccd
+aiohttp
+>>>>>>> ced67eb444fb0e98c09b4b7f3e8b4f15e2db3ef7
