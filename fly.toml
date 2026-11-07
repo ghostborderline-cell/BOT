@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for bot-tnwzhw on 2026-11-07T19:12:11Z
+# fly.toml app configuration file generated for bot-tnwzhw on 2026-11-07T19:17:16Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = 'bot-tnwzhw'
-primary_region = 'ams'
+primary_region = 'cdg'
 
 [build]
 [http_service]
